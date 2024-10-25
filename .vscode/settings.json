@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/a8845471-c59d-4a93-a67f-0ecc2392d3da/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/apiTestLocal",
+    "appService.deploySubpath": "."
+}
