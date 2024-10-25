@@ -22,7 +22,7 @@ app.use(express.json());
 
 //Routes
 app.get('/', (req, res) => {
-    res.send('index')
+    res.send('Api funcionando')
 })
 
 app.use(rutasImg)
